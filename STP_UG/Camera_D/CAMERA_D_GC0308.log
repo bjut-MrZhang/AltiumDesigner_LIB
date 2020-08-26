@@ -1,7 +1,7 @@
 UG to STEP
 ! INFO-     NX STEP AP214 - V8.5
 ! INFO-      
-! INFO-     Start of Translation: 29-JUL-2020  2:38:01 PM
+! INFO-     Start of Translation: 25-AUG-2020  1:48:54 PM
 ! INFO-      
 ! STATUS-   Converting Part: F:\Workspace\AltiumDesigner\AltiumDesigner_LIB\STP_UG\Camera_D\CAMERA_D_GC0308.prt
 ! SUMMARY-   
@@ -20,7 +20,7 @@ UG to STEP
 ! SUMMARY-                                 -----
 ! SUMMARY-  Total                             14
 ! STATUS-    
-! STATUS-   Converting to Output Form (Phase 2 of 3): 29-JUL-2020 2:38:02 PM
+! STATUS-   Converting to Output Form (Phase 2 of 3): 25-AUG-2020 1:48:55 PM
 ! STATUS-    
 ! STATUS-    
 ! STATUS-   Generating UG geometry and placing them in parts
@@ -31,7 +31,7 @@ UG to STEP
 ! SUMMARY-  Description      Unknown
 ! SUMMARY-  Imp_Level        1
 ! SUMMARY-  File_Name        CAMERA_D_GC0308.stp
-! SUMMARY-  Date             2020-07-29T14:38:02+08:00
+! SUMMARY-  Date             2020-08-25T13:48:55+08:00
 ! SUMMARY-  Author           Unknown
 ! SUMMARY-  Organization     Unknown
 ! SUMMARY-  Pre_Version      ST-DEVELOPER v15
@@ -43,27 +43,27 @@ UG to STEP
 ! SUMMARY-  Entity Type                                                   Count
 ! SUMMARY-  -----------                                                   ------
 ! SUMMARY-  advanced_brep_shape_representation .........................:      1
-! SUMMARY-  advanced_face ..............................................:     52
+! SUMMARY-  advanced_face ..............................................:     60
 ! SUMMARY-  application_context ........................................:      1
 ! SUMMARY-  application_protocol_definition ............................:      1
-! SUMMARY-  axis2_placement_3d .........................................:     79
-! SUMMARY-  cartesian_point ............................................:    193
+! SUMMARY-  axis2_placement_3d .........................................:     87
+! SUMMARY-  cartesian_point ............................................:    225
 ! SUMMARY-  circle .....................................................:     26
 ! SUMMARY-  closed_shell ...............................................:      6
 ! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
 ! SUMMARY-  cylindrical_surface ........................................:      8
 ! SUMMARY-  dimensional_exponents ......................................:      1
-! SUMMARY-  direction ..................................................:    214
-! SUMMARY-  edge_curve .................................................:     82
-! SUMMARY-  edge_loop ..................................................:     68
+! SUMMARY-  direction ..................................................:    246
+! SUMMARY-  edge_curve .................................................:     98
+! SUMMARY-  edge_loop ..................................................:     76
 ! SUMMARY-  face_bound .................................................:     32
-! SUMMARY-  face_outer_bound ...........................................:     36
+! SUMMARY-  face_outer_bound ...........................................:     44
 ! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
 ! SUMMARY-  length_unit_and_si_unit ....................................:      1
-! SUMMARY-  line .......................................................:     56
+! SUMMARY-  line .......................................................:     72
 ! SUMMARY-  manifold_solid_brep ........................................:      6
-! SUMMARY-  oriented_edge ..............................................:    164
-! SUMMARY-  plane ......................................................:     40
+! SUMMARY-  oriented_edge ..............................................:    196
+! SUMMARY-  plane ......................................................:     48
 ! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
 ! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
 ! SUMMARY-  product ....................................................:      1
@@ -79,10 +79,10 @@ UG to STEP
 ! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
 ! SUMMARY-  toroidal_surface ...........................................:      4
 ! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
-! SUMMARY-  vector .....................................................:     56
-! SUMMARY-  vertex_point ...............................................:     58
+! SUMMARY-  vector .....................................................:     72
+! SUMMARY-  vertex_point ...............................................:     66
 ! SUMMARY-                                                               -------
-! SUMMARY-  Total                                                           1201
+! SUMMARY-  Total                                                           1393
 ! INFO-      
 ! INFO-     User interface/default file
 ! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-002 mm
@@ -95,5 +95,5 @@ UG to STEP
 ! INFO-      
 ! INFO-     Number of solids not processed                     :       0
 ! INFO-      
-! INFO-     End of Translation: 29-JUL-2020  2:38:02 PM
+! INFO-     End of Translation: 25-AUG-2020  1:48:55 PM
 ! INFO-      
