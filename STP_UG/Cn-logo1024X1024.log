@@ -1,0 +1,119 @@
+﻿----------------------------------------------------------------------------
+SUMMARY-            Translator Settings
+----------------------------------------------------------------------------
+UNITS                                              = METRIC                                            
+MAX_SPLINE_DEGREE                                  = 3                                                 
+UGI_IMPORT_POLYLINE                                = SPLINE                                            
+UGI_DIM_IMPORT_FLAG                                = GROUP                                             
+FILL_MODE                                          = OFF                                               
+IMPORT_ACAD_MODEL_DATA                             = YES                                               
+IMPORT_ACAD_MODEL_DATA_TO                          = MODELING                                          
+IMPORT_ACAD_LAYOUTS                                = NO                                                
+IMPORT_ACAD_LAYOUTS_TO                             = IMPORTED_VIEW                                     
+IMPORT_ACAD_BlOCKS_AS                              = GROUP                                             
+IMPORT_ACAD_CURVES_ON_SKETCH                       = NO                                                
+AVOID_NX_TEMPLATE_PART_LAYERS                      = YES                                               
+SET_NX_LAYER_NUMBER_FROM_PREFIX                    = NO                                                
+SKIP_UNREFERENCED_ACAD_LAYERS                      = YES                                               
+IMPORT_UNSELECTED_ACAD_LAYERS                      = NO                                                
+IMPORT_UNSELECTED_ACAD_LAYERS_TO                   = 256                                               
+NON_NUMERIC_LAYER_SORTING_CRITERIA                 = ALPHABETICAL                                      
+IMPORT_3D_FACES_AS                                 = JT FACETS                                         
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Layer Mapping Info
+----------------------------------------------------------------------------
+ACAD Layer                                        NX Layer                                          
+------------                                      -----------                                       
+0                                                 1                                                 
+color#005189ff                                    2                                                 
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Linefonts Mapping Info
+----------------------------------------------------------------------------
+ACAD Linefont                                     NX Linefont                                       
+------------                                      -----------                                       
+CONTINUOUS                                        Solid                                             
+ACAD_ISO02W100                                    Solid                                             
+ACAD_ISO03W100                                    Solid                                             
+ACAD_ISO04W100                                    Long Dashed Dotted                                
+ACAD_ISO05W100                                    Long Dashed Double Dotted                         
+BORDER                                            Solid                                             
+BORDER2                                           Solid                                             
+BORDERX2                                          Solid                                             
+CENTER                                            Centerline                                        
+CENTER2                                           Solid                                             
+CENTERX2                                          Solid                                             
+DASHDOT                                           Dotted Dashed                                     
+DASHDOT2                                          Solid                                             
+DASHDOTX2                                         Solid                                             
+DASHED                                            Dashed                                            
+DASHED2                                           Solid                                             
+DASHEDX2                                          Solid                                             
+DIVIDE                                            Solid                                             
+DIVIDE2                                           Solid                                             
+DIVIDEX2                                          Solid                                             
+DOT                                               Dotted                                            
+DOT2                                              Solid                                             
+DOTX2                                             Solid                                             
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD Text Fonts And NX Text Fonts Info
+----------------------------------------------------------------------------
+ACAD TextFont                                     NX TextFont                                       
+------------                                      -----------                                       
+txt                                               Arial                                             
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Hatch Pattern Mapping Info
+----------------------------------------------------------------------------
+ACAD Hatch Pattern                                NX Hatch Pattern                                  
+------------                                      -----------                                       
+
+-None-
+-------------------------------End------------------------------------------
+
+INFO-
+INFO-		AutoCAD 2000 to Unigraphics Version NX V1899
+INFO-		20.01
+INFO-
+INFO-		Running DXFTOUG Translator .....
+INFO-
+INFO-		Start of Translation: Fri May  7 13:49:58 2021
+INFO-
+STATUS-		Converting F:\Workspace\AltiumDesigner\CanaanLogo\Cn-logo1024X1024.dwg
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of AutoCAD Input Entities
+SUMMARY-	For AutoCAD File: F:\Workspace\AltiumDesigner\CanaanLogo\Cn-logo1024X1024.dwg
+SUMMARY-SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Light Weight Polyline ....................:	8
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	9
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: F:\Workspace\AltiumDesigner\AltiumDesigner_LIB\STP_UG\Cn-logo1024X1024.prt
+SUMMARY-	Summary of UG Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Spline ...................................:	8
+SUMMARY-	Group ....................................:	1
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	10
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Fri May  7 13:49:58 2021
+INFO-		Translation CPU time: 0 m, 0 s
+INFO-
